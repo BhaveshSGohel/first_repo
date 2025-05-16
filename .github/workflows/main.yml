@@ -9,4 +9,6 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Simple Echo
-        run: echo "Testing basic workflow"
+        run: |
+          set -x
+          echo "Testing basic workflow"
