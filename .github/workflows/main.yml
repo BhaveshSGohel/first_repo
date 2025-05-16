@@ -6,7 +6,7 @@ on:
 
 jobs:
   test_job:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: Simple Echo
         run: echo "Testing basic workflow"
