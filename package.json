@@ -4,7 +4,8 @@
   "description": "A simple project to test GitHub Actions workflow",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Building project...'"
+    "build": "echo 'Building project...'",
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC"
