@@ -1,0 +1,11 @@
+{
+  "name": "ci-test-project",
+  "version": "1.0.0",
+  "description": "A simple project to test GitHub Actions workflow",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building project...'"
+  },
+  "author": "",
+  "license": "ISC"
+}
